@@ -8,3 +8,5 @@ ii) Tutorial_example-GRS.ipynb
 
 iii) Tutorial_helper_functions.ipynb
       This helps in understanding the helper functions.
+
+iv) The grs-field.fits file has also been uploaded.
